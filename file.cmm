@@ -1,0 +1,9 @@
+say "test" end
+  string llamastring="llama="
+say llamastring
+int test
+ask test
+   int     llama = 5
+if test==10{
+say llama end
+}
